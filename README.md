@@ -6,8 +6,8 @@ My Collection of Android Exercises
 2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-JJCpro10)
 3. **Activity LifeCycle** (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-JJCpro10)
 4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-JJCpro10)
-5. **Linking Android Activities** 
-6. **Weekday App using Date Picker Fragment**
+5. **Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan)
+6. **Weekday App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-JJCpro10)
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-JJCpro10)
 8. **Email App** (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-JJCpro10)
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-JJCpro10)
