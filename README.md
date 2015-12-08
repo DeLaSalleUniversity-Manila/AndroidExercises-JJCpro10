@@ -29,13 +29,13 @@ My Collection of Android Exercises
 25. **WorkoutFragmentDemo** 
 26. **Grocery App** 
 27. **Breast Cancer Awareness App** 
-28. **OpenCV 3.0 Camera Preview Example**
+28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-JJCpro10)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** 
 30. **Image Local Binary Pattern** 
 31. **OpenCV 3.0 Mixed-Signal Processing** 
 32. **OpenCV 3.0 Face Detection Sample** 
 33. **OpenCV 3.0 Image Manipulations** 
-34. **Get Current Location and Place a Marker**
+34. **Get Current Location and Place a Marker** (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-JJCpro10)
 35. **Get Neighboring Hospitals** 
 36. **OpenCV 3.0 Color Blob Detection Sample**
 37. **Android Native Camera Access with Native OpenCV Processing through JNI**
@@ -48,7 +48,7 @@ My Collection of Android Exercises
 44. **AKAZE Keypoints** 
 45. **Colored Gray** 
 46. **Twin Camera Effect** 
-47. **Range Seekbar Demo** 
+47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-JJCpro10)
 48. **Frame Difference (Motion Detect)** 
 49. **Pedestrian Detection** 
 50. **Voronoi Effects** 
@@ -92,14 +92,14 @@ My Collection of Android Exercises
 88. **CMT Tracker with ORB Features** 
 89. **San Angeles** 
 90. **OpenGL ES 3.0 Demo** 
-91. **2048 Game** 
-92. **Green Wall Game** 
-93. **Octodroid** 
-94. **Flappy Bird (Clone)** 
-95. **9GAG (Unofficial App)** 
-96. **MP Android Chart Demo** 
-97. **Puzzle Collection** 
-98. **Super Jumper** 
-99. **Super Mario (Android Clone)** 
-100. **Google's Santa Tracker** 
-101. **Forkhub** 
+91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-JJCpro10)
+92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-JJCpro10)
+93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-JJCpro10)
+94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-JJCpro10)
+95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-JJCpro10)
+96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-JJCpro10)
+97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-JJCpro10)
+98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-JJCpro10)
+99. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/supermario-JJCpro10)
+100. **Google's Santa Tracker** (https://github.com/DeLaSalleUniversity-Manila/santatracker-JJCpro10)
+101. **Forkhub** (https://github.com/DeLaSalleUniversity-Manila/forkhub-JJCpro10)
